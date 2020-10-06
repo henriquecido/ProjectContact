@@ -8,3 +8,4 @@ Projeto com a ideia de fazer uma simples Agenda Telefônica, utilizando alguns c
 
 Funcionalidade: CRUD, Ordenar por Nome ou E-mail a Agenda, Persistência(Salvar Contatos e Ler), entre outros.
 
+O Projeto Agenda2 foi feito  com List e não Lista Simples como feito no TrabalhoAgenda. 
