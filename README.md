@@ -1,5 +1,4 @@
 # TrabalhoAgenda
-![Test Image 4](https://github.com/henriquecido/TrabalhoAgenda/blob/main/readme.PNG)
 
 ## Sobre
 Trabalho da Matéria de Estruturas de Dados I 
