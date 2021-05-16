@@ -1,10 +1,10 @@
 # TrabalhoAgenda
-![Test Image 4](https://github.com/henriquecido/TrabalhoAgenda/blob/main/readme.PNG)
 
-## Sobre
-Trabalho da Matéria de Estruturas de Dados I 
+## About
 
-Projeto com a ideia de fazer uma simples Agenda Telefônica, utilizando alguns conceitos aprendidos na matéria. 
+Data Structures Project I
 
-Funcionalidade: CRUD, Ordenar por Nome ou E-mail a Agenda, Persistência(Salvar Contatos e Ler), entre outros.
+Project with the idea of making a simple Phonebook, using some concepts learned in the subject.
+
+Functionality: CRUD, Sort by Name or Email the Agenda, Persistence (Save Contacts and Read), among others.
 
