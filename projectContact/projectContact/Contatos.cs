@@ -47,7 +47,7 @@ namespace projectContact {
                     }
                 }
                 if (aux == 1) {
-                    Console.WriteLine("\n Removido com Sucesso !\n");
+                    Console.WriteLine("\n Removido com Sucesso!\n");
                 }
                 else {
                     Console.WriteLine("\n Não existe Contato com esse Nome !\n");
