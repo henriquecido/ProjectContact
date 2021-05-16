@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 
-namespace trabalhoAgenda2 {
+namespace projectContact {
     class Principal {
         static void Main(string[] args) {
             int i = 0;
@@ -78,6 +78,7 @@ namespace trabalhoAgenda2 {
                         break;
                 }
             } while (i != 1);
+            
         }
     }
 }

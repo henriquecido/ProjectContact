@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 
-namespace trabalhoAgenda2 {
+namespace projectContact {
     [Serializable]
     class Contatos {
         private String nome;
