@@ -1,4 +1,4 @@
-# [:hammer_and_wrench: Working..] ProjectContact
+# 📲 ProjectContact
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/joabehenrique/project-contact?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/joabehenrique/project-contact?style=flat)
@@ -6,46 +6,51 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/joabehenrique/project-contact?style=flat)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/joabehenrique/project-contact?style=flat)
 
-> Simple project developed ...
+> Project developed with the idea of making a simple Phonebook, using some concepts learned in the subject.
 
 ## 💻 Requirements
 
 Before you begin, make sure you have met the following requirements:
 
-- You need the latest version of `...` on your machine.
+- You need the latest version of `.NET` and `Visual Studio` on your machine.
 
 If you need installation instructions, [click here]("...").
 
-## 🚀 Installing ...
+## 🚀 Installing ProjectContact
 
-To install ..., follow these steps:
+To install ProjectContact, follow these steps:
 
 1º Clone the repository.
 
 ```
 >  git clone https://github.com/joabehenrique/project-contact.git
 ```
+2º Goes into the folder
+```
+> cd project-contact\projectContact
+```
+3º Just build and run the project
+```
+>  F5 (For Visual Studio)
+```
+## ☕ Using ProjectContact
 
-## ☕ Using ...
-
-To use ..., follow these steps:
+To use ProjectContact, follow these steps:
 
 ```
-Data Structures Project I
-
 Project with the idea of making a simple Phonebook, using some concepts learned in the subject.
 
 Functionality: CRUD, Sort by Name or Email the Agenda, Persistence (Save Contacts and Read), among others.
 ```
 
-## 📫 Contributing to Exlivery
+## 📫 Contributing to ProjectContact
 
-To contribute to Exlivery, follow these steps:
+To contribute to ProjectContact, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <nome_branch>`.
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Send to the original branch: `git push origin Exlivery / <local>`
+4. Send to the original branch: `git push origin ProjectContact / <local>`
 5. Create the pull request.
 
 Alternatively, see the GitHub documentation at [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)..
@@ -74,5 +79,3 @@ Do you want to be part of this project? Click [here](https://github.com/joabehen
 ## 📝 License
 
 This project is under license. See the [license](https://github.com/joabehenrique/project-contact/blob/main/LICENSE.md) file for more details.
-
-[⬆ Back to top](#ProjectContact)<br>
