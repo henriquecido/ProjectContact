@@ -14,7 +14,7 @@ Before you begin, make sure you have met the following requirements:
 
 - You need the latest version of `.NET` and `Visual Studio` on your machine.
 
-If you need installation instructions, [click here]("...").
+If you need installation instructions, [click here](https://visualstudio.microsoft.com/pt-br/downloads/).
 
 ## 🚀 Installing ProjectContact
 
